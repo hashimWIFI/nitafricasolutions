@@ -642,7 +642,7 @@
     </section>
 
     <footer>
-        <p class="lang-en">© 2026 <b>NIT Africa Solutions Limited</b>. All Rights Reserved. TANConnect is a registered trade brand of NIT Africa Solutions Limited.</p>
+        <p class="lang-en">© 2026 <b>NIT Africa Solutions Limited</b>. All Rights Reserved. TANConnect<sup style="font-family: Arial, Helvetica, sans-serif; font-size: 8px; font-weight: normal; vertical-align: super; line-height: 0;">&reg;</sup> is a registered trade brand of NIT Africa Solutions Limited.</p>
         <p class="lang-sw">© 2026 <b>NIT Africa Solutions Limited</b>. Haki zote zimehifadhiwa. TANConnect ni chapa iliyosajiliwa inayomilikiwa na kuendeshwa na NIT Africa Solutions Limited.</p>
         <p style="font-size: 11px; color: #64748b; margin-top: 15px; max-width: 900px; margin-left: auto; margin-right: auto; line-height: 1.5;">
             <b>Dealers in:</b> Installation, Maintenance And Sales Of Optic Fiber Cables, Its Accessories and General Telecommunication Networks, ICT and Security Systems.
