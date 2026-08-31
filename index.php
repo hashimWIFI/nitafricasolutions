@@ -349,6 +349,99 @@
         <h2 class="lang-en">Dealers in Installation, Maintenance & Sales of Optic Fiber Cables & Telecommunication Networks</h2>
         <h2 class="lang-sw">Wataalamu wa Ufungaji, Matengenezo na Mauzo ya Nyaya za Fiber Optic na Mitandao ya Mawasiliano</h2>
 
+    <!-- 📌 MISSION & STRATEGY SECTION -->
+    <section id="about">
+        <div class="section-title">
+            <h3><span class="inline-en">Corporate Mission & Strategy</span><span class="inline-sw">Dira Yetu na Usimamizi</span></h3>
+            <div></div>
+        </div>
+        
+        <div class="grid-2">
+            <div class="card" style="border-left: 4px solid var(--primary);">
+                <h4>🎯 Corporate Mission</h4>
+                <p class="lang-en">To be a leading Company providing state of the art services in installation of Fiber optic links, Access network, GSM & CDMA systems, Microwave links, erection of towers, general telecommunications, Power Systems (Solar System), ICT and Security Systems.</p>
+                <p class="lang-sw">Kuwa kampuni inayoongoza kwa kutoa huduma za kisasa na zenye viwango vya juu katika ufungaji wa mifumo ya Fiber optic, mitandao ya mawasiliano, mifumo ya antenna za GSM na CDMA, microwave links, usimamishaji wa minara ya simu, mifumo ya umeme wa nishati ya jua (Solar System), TEHAMA na mifumo ya ulinzi.</p>
+            </div>
+            <div class="card" style="border-left: 4px solid var(--primary-dark);">
+                <h4>🏗️ Project Management System</h4>
+                <p class="lang-en">We have got a well-defined Project Management System in place wherein which we organize and manage the resources in such a way that the project is completed within a defined scope, quality, time, and cost constraints.</p>
+                <p class="lang-sw">Tuna mfumo madhubuti na ulioratibiwa vizuri wa Usimamizi wa Miradi (Project Management System) ambapo tunapanga na kusimamai rasilimali zote kwa njia inayohakikisha mradi unakamilika kwa ukamilifu, ubora wa hali ya juu, ndani ya muda uliopangwa, na kwa kuzingatia bajeti sahihi bila ucheleweshaji.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 📌 CORE SERVICES OFFERED SECTION -->
+    <section id="services" style="background-color: #f1f5f9; max-width: 100%;">
+        <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+            <div class="section-title">
+                <h3><span class="inline-en">Core Services Offered</span><span class="inline-sw">Huduma Kuu Tunazotoa</span></h3>
+                <div></div>
+            </div>
+            
+            <div class="grid-3">
+                <!-- Card 1: Telecom Infrastructure -->
+                <div class="card">
+                    <h4>📡 Telecom Infrastructure</h4>
+                    <ul class="lang-en">
+                        <li>Installation of Fiber optic links</li>
+                        <li>Access network infrastructure deployment</li>
+                        <li>GSM antenna & CDMA systems setup</li>
+                        <li>Microwave links configuration</li>
+                        <li>Erection of Telecommunication Towers</li>
+                        <li>Civil works associated with network routing</li>
+                    </ul>
+                    <ul class="lang-sw">
+                        <li>Ufungaji na uunganishaji wa mifumo ya Fiber optic</li>
+                        <li>Ujenzi wa miundombinu ya mitandao ya mawasiliano (Access network)</li>
+                        <li>Ufungaji wa mifumo ya Antenna za GSM na mifumo ya CDMA</li>
+                        <li>Usanidi na usimamiaji wa Microwave links</li>
+                        <li>Usimamishaji na ujenzi wa Minara ya mawasiliano ya simu</li>
+                        <li>Kazi za kijamii na ujenzi unaohusiana na njia za mitandao</li>
+                    </ul>
+                </div>
+                
+                <!-- Card 2: IT Integration -->
+                <div class="card">
+                    <h4>💻 IT Integration & Supply</h4>
+                    <ul class="lang-en">
+                        <li>Complete enterprise IT Solutions deployment</li>
+                        <li>Supply of local Telecommunications hardware</li>
+                        <li>Supply of commercial electronic equipment</li>
+                        <li>Structured cabling installation designs</li>
+                        <li>Network node synchronization audits</li>
+                    </ul>
+                    <ul class="lang-sw">
+                        <li>Utekelezaji kamili wa suluhisho za IT kwa mashirika na kampuni</li>
+                        <li>Ugavi wa vifaa vya ndani vya Mawasiliano (Telecom equipment)</li>
+                        <li>Ugavi wa vifaa vya kielektroniki vya kibiashara</li>
+                        <li>Usanifu na ufungaji wa mifumo ya nyaya za kompyuta (Structured cabling)</li>
+                        <li>Ukaguzi na usawazishaji wa sehemu za mtandao (Network nodes)</li>
+                    </ul>
+                </div>
+                
+                <!-- Card 3: Security & Solar -->
+                <div class="card">
+                    <h4>☀️ Security & Solar Systems</h4>
+                    <ul class="lang-en">
+                        <li>Advanced Security Systems deployment</li>
+                        <li>CCTV and structural access monitoring layout</li>
+                        <li>Power Systems integration and setup</li>
+                        <li>Industrial and residential Solar Power Solutions</li>
+                        <li>Backup power safety infrastructure mapping</li>
+                    </ul>
+                    <ul class="lang-sw">
+                        <li>Utekelezaji wa mifumo ya juu ya ulinzi wa majengo na mitandao</li>
+                        <li>Ufungaji wa mifumo ya CCTV na ufuatiliaji wa ufikiaji wa majengo</li>
+                        <li>Ufungaji na usanidi wa mifumo ya usambazaji nishati ya umeme</li>
+                        <li>Mifumo ya umeme wa nishati ya jua (Solar Power) kwa viwanda na nyumba</li>
+                        <li>Mipango ya miundombinu ya nishati ya dharura/chelezo (Backup power)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 📌 TECHNOLOGY SOLUTION GROUP SECTION -->
     <section id="group">
         <div class="section-title">
             <h3><span class="inline-en">Technology Solution Group</span><span class="inline-sw">Mifumo Maalumu ya Kiteknolojia</span></h3>
@@ -380,8 +473,8 @@
             <!-- Card 2: Unified Communications -->
             <div class="card">
                 <h4>📞 Unified Communications</h4>
-                <p class="lang-en">IP Telephony is not about reducing call charges but evolving the way business is conducted by improving communication reliability, flexibility, and mobility:</p>
-                <p class="lang-sw">Mifumo ya Simu ya IP (IP Telephony) si tu kuhusu kupunguza gharama za simu, bali kuboresha njia ambayo biashara inaendeshwa kwa kuongeza uaminifu na kubadilika:</p>
+                <p class="lang-en">IP Telephony is not about reducing call charges but evolving the way business is conducted by improving communication reliability, security, flexibility, and mobility through services like Computer Telephony Integration (CTI), Interactive Voice Response (IVR), and Unified Messaging:</p>
+                <p class="lang-sw">Mifumo ya Simu ya IP (IP Telephony) si tu kuhusu kupunguza gharama za simu, bali kuboresha njia ambayo biashara inaendeshwa kwa kuongeza uaminifu, usalama na kubadilika kupitia CTI, mifumo ya sauti ya kujiendesha (IVR), na Ujumbe uliounganishwa:</p>
                 <ul>
                     <li>Computer Telephony Integration (CTI)</li>
                     <li>Interactive Voice Response (IVR) setups</li>
@@ -394,8 +487,8 @@
             <!-- Card 3: Wireless Solutions -->
             <div class="card">
                 <h4>📶 Wireless Solutions</h4>
-                <p class="lang-en">Wireless infrastructure enables a higher degree of mobility and uninterrupted network access—allowing your enterprise to stay connected safely on the move:</p>
-                <p class="lang-sw">Miundombinu ya mtandao usio na waya (Wireless) inaleta uhuru mkubwa wa kutembea na ufikiaji wa mtandao bila kukatika—kuwa hewani wakati wowote:</p>
+                <p class="lang-en">Wireless enables higher degree of network access—Stay connected on the move. Enterprises are migrating towards unwired connectivity for anywhere, anytime access to real-time information with easy deployment without hassles of wiring the entire office:</p>
+                <p class="lang-sw">Miundombinu ya mtandao usio na waya (Wireless) inaleta uhuru mkubwa wa kutembea na ufikiaji wa mtandao bila kukatika—kuwa hewani wakati wowote kupata taarifa kwa urahisi bila usumbufu wa kuweka waya ofisi nzima:</p>
                 <ul>
                     <li>Enterprise unwired connectivity migration</li>
                     <li>Anywhere, anytime real-time data access</li>
@@ -406,25 +499,31 @@
             </div>
         </div>
 
-        <!-- CONVERGENCE SEGMENT EXPLANATION -->
+               <!-- CONVERGENCE SEGMENT EXPLANATION -->
         <div class="highlight-box">
+            <!-- 🌐 ENGLISH DATA CONTAINER -->
             <div class="lang-en">
                 <h4>The Paradigm of Convergence Practice</h4>
-                <p>Technology today enables the convergence of data, voice, and video into a single network enabled by IP, as opposed to traditional networks which carry data, voice, and video separately. NIT Africa Solutions Limited has considerable expertise and experience in convergence practice to help deliver unique solutions to our customers. Key benefits of a converged network include significantly reduced voice and data operational costs, simplified hardware networking layouts, improved staff productivity, enhanced mobility at work, and a dramatically better customer experience.</p>
+                <p>Technology today enables the convergence of data, voice, and video into a single network enabled by IP, as opposed to traditional networks which carry data, voice, and video separately. NIT Africa Solutions Limited has considerable expertise and experience in convergence practice to help deliver unique solutions to our customers. Some of the advantages of a converged network include significantly reduced voice and data operational costs, simplified hardware networking layouts, improved staff productivity, enhanced mobility at work, and a dramatically better customer experience.</p>
                 <span class="badge-strip">IP Technology Focus: Routing | Switching | VoIP | Streaming Convergence</span>
             </div>
+            
+            <!-- 🌍 SWAHILI DATA CONTAINER -->
             <div class="lang-sw">
                 <h4>Umuhimu wa Mifumo Iliyounganishwa (Convergence Practice)</h4>
-                <p>Teknolojia ya leo inaruhusu kuunganishwa kwa data, sauti, na video kwenye mtandao mmoja unaoendeshwa na mfumo wa IP, tofauti na mitandao ya kizamani ambayo ilisafirisha huduma hizi kando kando. NIT Africa Solutions Limited ina utalaamu na uzoefu mkubwa katika uunganishaji huu ili kuleta suluhisho la kipekee kwa wateja wetu. Faida kuu za mtandao uliounganishwa ni pamoja na kupunguza kwa kiasi kijubwa gharama za uendeshaji wa sauti na data, kurahisisha muundo mzima vya mitandao ya vifaa, kuongeza tija ya wafanyakazi, na kuleta uzoefu bora zaidi kwa wateja wako.</p>
+                <p>Teknolojia ya leo inaruhusu kuunganishwa kwa data, sauti, na video kwenye mtandao mmoja unaoendeshwa na mfumo wa IP, tofauti na mitandao ya kizamani ambayo ilisafirisha huduma hizi kando kando. NIT Africa Solutions Limited ina utalaamu na uzoefu mkubwa katika uunganishaji huu ili kuleta suluhisho la kipekee kwa wateja wetu. Faida kuu za mtandao uliounganishwa ni pamoja na kupunguza kwa kiasi kikubwa gharama za uendeshaji wa sauti na data, kurahisisha muundo mzima wa mitandao ya vifaa, kuongeza tija ya wafanyakazi, na kuleta uzoefu bora zaidi kwa wateja wako.</p>
                 <span class="badge-strip">Mifumo ya IP: Internetworking | Maongezi ya Sauti | Video | Data Converged</span>
             </div>
         </div>
 
-        <div class="grid-2" style="margin-top: 30px;">
+    </section>
+    <!-- 📌 SECURITY & MANAGEMENT OVERVIEW -->
+    <section id="security-management" style="padding-top: 20px;">
+        <div class="grid-2">
             <!-- Security Deep Dive -->
             <div class="card" style="border-top: 3px solid #ef4444;">
                 <h4>🔒 Comprehensive Enterprise Security</h4>
-                <p class="lang-en">Unauthorized access, Denial of Service (DoS), confidentiality breaches, data destruction—these are critical threats faced by organizations worldwide. As technology advances, threats escalate, making security of paramount importance. It requires best-in-class technology and specialist engineers to assess, design, develop, and implement a framework that safeguards your information assets and creates a risk-free environment.</p>
+                <p class="lang-en">Unauthorized access, Denial of Service (DoS), confidentiality breaches, data destruction—these are critical threats faced by organizations worldwide. As technology advances, threats escalate, making security of paramount importance. It requires best-in-class technology and specialist engineers to assess, design, develop, and implement a comprehensive security framework that safeguards your information assets.</p>
                 <p class="lang-sw">Ufikiaji usioidhinishwa wa mifumo, mashambulizi ya mitandao (DoS), uvujaji wa siri za kampuni, na uharibifu wa data—haya ni baadhi ya matatizo yanayokabili mashirika duniani kote. Teknolojia inapoendelea, ndivyo vitisho navyo vinavyoongezeka. Inahitaji teknolojia bora na wahandisi waliobobea kufanya tathmini, usanifu, na ufungaji wa mfumo wa usalama utakaolinda rasilimali za taarifa za kampuni yako.</p>
                 <ul class="lang-en">
                     <li>Securing corporate networks with industrial firewalls</li>
@@ -437,7 +536,7 @@
                     <li>Kulinda mitandao ya kampuni kwa kutumia Firewalls za kisasa vya viwandani</li>
                     <li>Uwekaji na usimamiaji wa miongozo na sera za usalama wa mifumo (IT Policy)</li>
                     <li>Ulinzi dhidi ya wavamizi wa nje kwa kutumia Antivirus za hali ya juu</li>
-                    <li>Ukaguzi kamili vya miundombinu ya mitandao na mifumo ya kompyuta</li>
+                    <li>Ukaguzi kamili wa miundombinu ya mitandao na mifumo ya kompyuta</li>
                     <li>Utoaji wa ripoti za kina za udhaifu wa usalama na kuzifanyia matengenezo</li>
                 </ul>
             </div>
@@ -445,36 +544,129 @@
             <!-- Enterprise Management Deep Dive -->
             <div class="card" style="border-top: 3px solid var(--primary);">
                 <h4>📊 IT Infrastructure Enterprise Management</h4>
-                <p class="lang-en">Organizations face the continuous challenge of managing the complexity of growing IT infrastructures while controlling costs. NIT Africa Solutions Limited brings new perspectives to management that alleviate complexity. Our solutions are deployed to ensure monitoring and management of key operational metrics such as real-time system availability, fault tolerance, and baseline performance.</p>
+                <p class="lang-en">Organizations face the continuous challenge of managing the complexity of growing IT infrastructures while trying to reduce costs. NIT Africa Solutions Limited brings new perspectives to management that alleviate complexity. Our solutions are deployed to ensure monitoring and management of key metrics such as real-time system availability, fault tolerance, and baseline performance.</p>
                 <p class="lang-sw">Mashirika ya sasa yanakabiliwa na changamoto ya kusimamia utata wa miundombinu ya IT inayokua huku wakijaribu kupunguza gharama. NIT Africa Solutions Limited inaleta mtazamo mpya katika usimamizi wa miundombinu ya IT unaoondoa utata huo. Suluhisho zetu hutekelezwa ili kuhakikisha ufuatiliaji na usimamizi wa vipimo muhimu kama vile upatikanaji wa mifumo na utendaji kazi kwa wakati halisi.</p>
                 <ul class="lang-en">
                     <li>Desktop & end-point client management</li>
                     <li>Core network hardware and layout management</li>
                     <li>Systems and application performance monitoring</li>
-                    <li>Data center environment management</li>
-                    <li>Backup and storage configuration management (DAS, NAS, SAN Solution)</li>
+                    <li>Data center management (DAS, NAS, SAN Solution, HP MSA, HP EVA)</li>
+                    <li>Backup and storage configuration management</li>
                     <li>Help Desk infrastructure & service asset management</li>
                     <li>Advanced Clustering, Extended Clusters, & Fault Tolerance</li>
                     <li>Disaster Recovery planning & real-time replication loops</li>
                 </ul>
                 <ul class="lang-sw">
-                    <li>Usimamizi wa kompyuta za watumiaji (Desktop & End-point management)
-                    <li>Usimamizi vya vifaa kuu vya mtandao na mpangilio wakeUfuatiliaji wa utendaji kazi wa mifumo na programu za kompyuta
-                    <li>Usimamizi wa vituo vikuu vya data (Data Center management)
-                    <li>Usimamizi wa chelezo na uhifadhi wa data (DAS, NAS, na SAN Solutions)
-                    <li>Miundombinu ya Dawati la Msaada (Help Desk) na usimamizi wa rasilimali
-                    <li>Mifumo ya juu ya uunganishaji wa seva (Clustering & Extended Clusters)
-                    <li>Mipango ya kurejesha mifumo baada ya majanga (Disaster Recovery & Real-time replication)
+                    <li>Usimamizi wa kompyuta za watumiaji (Desktop & End-point management)</li>
+                    <li>Usimamizi wa vifaa kuu vya mtandao na mpangilio wake</li>
+                    <li>Ufuatiliaji wa utendaji kazi wa mifumo na programu za kompyuta</li>
+                    <li>Usimamizi wa vituo vikuu vya data (Data Center management)</li>
+                    <li>Usimamizi wa chelezo na uhifadhi wa data (DAS, NAS, na SAN Solutions)</li>
+                    <li>Miundombinu ya Dawati la Msaada (Help Desk) na usimamizi wa rasilimali</li>
+                    <li>Mifumo ya juu ya uunganishaji wa seva (Clustering & Extended Clusters)</li>
+                    <li>Mipango ya kurejesha mifumo baada ya majanga (Disaster Recovery & Real-time replication)</li>
+                </ul>
+            </div>
+        </div>
+    </section>
 
-© 2026 NIT Africa Solutions Limited. All Rights Reserved. TANConnect is a registered trade brand of NIT Africa Solutions Limited.
+    <!-- 📌 MANAGED SERVICES AND SUPPORT (MSS) SECTION -->
+    <section id="mss" style="background-color: #f1f5f9; max-width: 100%;">
+        <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+            <div class="section-title">
+                <h3><span class="inline-en">Managed Services & Support (MSS)</span><span class="inline-sw">Kitengo cha Usimamizi na Usaidizi (MSS)</span></h3>
+                <div></div>
+            </div>
+            
+            <p class="lang-en" style="font-size: 14px; text-align: center; max-width: 900px; margin: -20px auto 30px auto; color: #475569;">
+                Outsourcing of IT Services enables an organization to stay competitive and current. Today management is viewing their companies from a strategic growth perspective rather than from the perspective of managing IT components. Infrastructure downtime can have a devastating impact on your business—resulting in lost revenue, dissatisfied customers, and damaged credibility. Our MSS team ensures your IT assets are up and running continuously.
+            </p>
+            <p class="lang-sw" style="font-size: 14px; text-align: center; max-width: 900px; margin: -20px auto 30px auto; color: #475569;">
+                Kukabidhi usimamizi wa huduma za IT kwa wataalamu wa nje (Outsourcing) kunaruhusu shirika lako kubaki na ushindani na kwenda na wakati. Kukatika kwa miundombinu ya IT kunaweza kuwa na athari mbaya kwenye biashara yako—kusababisha kupotea kwa mapato, wateja kutosheka, na kuharibu uaminifu wako sokoni. Timu yetu ya MSS ina ujuzi wa kuhakikisha rasilimali zako za IT zinafanya kazi mfululizo bila kukatika.
+            </p>
 
-© 2026 NIT Africa Solutions Limited. Haki zote zimehifadhiwa. TANConnect ni chapa iliyosajiliwa inayomilikiwa na kuendeshwa na NIT Africa Solutions 
-Limited.
+            <div class="grid-3">
+                <div class="card">
+                    <h4>🛠️ Onsite Maintenance</h4>
+                    <p class="lang-en">It is a fine balancing act to ensure the resources you need—both human and technical—are in the right place at the right time. Our Managed Services support you strategically to bring more control and predictability by providing an expert resource onsite enduringly or on-demand to handle maintenance packages flawlessly.</p>
+                    <p class="lang-sw">Ni kazi inayohitaji uratibu mzuri kuhakikisha rasilimali unazohitaji—wataalamu na vifaa vya kiufundi—viko mahali sahihi kwa wakati sahihi. Huduma zetu za Usimamizi zinakusaidia kimkakati kuleta udhibiti mkubwa kwa kutoa mtaalamu atakayekuwepo ofisini kwako mfululizo au pindi anapohitajika kutatua hitilafu mara moja.</p>
+                </div>
+                <div class="card">
+                    <h4>📡 Offsite Remote Maintenance</h4>
+                    <p class="lang-en">Offered through our Remote Management Service (RMS). RMS offers the exact same benefits of managed services by utilizing secure network links to monitor your core networks and systems 24/7 from our operations center, fixing software bugs before they impact your daily business continuity workflows.</p>
+                    <p class="lang-sw">Inatolewa kupitia Mfumo wetu wa Usimamizi wa Mbali (Remote Management Service - RMS). RMS inatoa faida zile zile za usimamizi wa huduma kwa kutumia njia salama za mtandao kufuatilia na kukagua seva na mitandao yako saa 24/7 kutoka kituo chetu cha uendeshaji, kutatua matatizo kabla hayajaleta athari kwa watumiaji.</p>
+                </div>
+                <div class="card">
+                    <h4>📦 Maintenance Service Bundles</h4>
+                    <p class="lang-en">A customized bundle of services that provides enterprise customers with flexibility in the use, management, and operations of their IT systems. Some of our bundled Maintenance Services include comprehensive Annual Maintenance Contracts (AMC), Data Management, and exhaustive health assessments of networks, systems, and security.</p>
+                    <p class="lang-sw">Kifurushi kilichobinafsishwa cha huduma ambacho kinawapa wateja wa mashirika uhuru mkubwa katika matumizi, usimamizi, na uendeshaji endelevu vya mifumo yao ya IT. Baadhi ya vifurushi vyetu ni pamoja na Mikataba ya Mwaka ya Matengenezo (Annual Maintenance Contract - AMC), Usimamizi wa Data, na tathmini ya usalama wa mitandao.</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
-Dealers in: Installation, Maintenance And Sales Of Optic Fiber Cables, Its Accessories and General Telecommunication Networks, ICT and Security Systems.function setLanguage(lang) {const body = document.body;const btnEn = document.getElementById('btn-en');const btnSw = document.getElementById('btn-sw');if (lang === 'sw') {body.className = 'mode-sw';btnSw.classList.add('active');btnEn.classList.remove('active');} else {body.className = 'mode-en';btnEn.classList.add('active');btnSw.classList.remove('active');}}
+    <!-- 📌 CONTACT & LOCATION SECTION -->
+    <section id="contact">
+        <div class="section-title">
+            <h3><span class="inline-en">Contact & Location Address</span><span class="inline-sw">Anwani na Mahali Tulipo</span></h3>
+            <div></div>
+        </div>
+        
+        <div class="contact-wrapper">
+            <div class="contact-info">
+                <h4><span class="inline-en">Head Office Location</span><span class="inline-sw">Ofisi Kuu</span></h4>
+                                    <div class="contact-detail-row">
+                        <b>📬 <span class="inline-en">Postal Address / P.O. BOX:</span><span class="inline-sw">Anwani ya Posta (S.L.P):</span></b>
+                        P. O. BOX 22673,<br>
+                        Dar es Salaam, TANZANIA.
+                    </div>
+                </div>
+                
+                <!-- Direct Comms Box -->
+                <div class="contact-info">
+                    <h4><span class="inline-en">Direct Communications</span><span class="inline-sw">Njia za Mawasiliano</span></h4>
+                    <div class="contact-detail-row">
+                        <b>📱 <span class="inline-en">Mobile Telephone Lines:</span><span class="inline-sw">Namba za Simu za Mkononi:</span></b>
+                        +255 767 539 053<br>
+                        +255 717 539 053<br>
+                        <span style="font-size: 11px; color: var(--primary); font-weight: bold;"><span class="inline-en">Wi-Fi Hotspot Support:</span><span class="inline-sw">Msaada wa Vocha za Wi-Fi:</span> 0713 123 974</span>
+                    </div>
+                    <div class="contact-detail-row">
+                        <b>✉️ <span class="inline-en">Corporate E-mail:</span><span class="inline-sw">Barua Pepe (E-mail):</span></b>
+                        nitafrica@gmail.com<br>
+                        kiolobelejuma@gmail.com
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
-<FollowUp>
-Would you like me to help you set up an **automated contact form box** inside the contact section next so clients can send text inquiries straight to your phone or corporate emails?
-</FollowUp>
+    <footer>
+        <p class="lang-en">© 2026 <b>NIT Africa Solutions Limited</b>. All Rights Reserved. TANConnect is a registered trade brand of NIT Africa Solutions Limited.</p>
+        <p class="lang-sw">© 2026 <b>NIT Africa Solutions Limited</b>. Haki zote zimehifadhiwa. TANConnect ni chapa iliyosajiliwa inayomilikiwa na kuendeshwa na NIT Africa Solutions Limited.</p>
+        <p style="font-size: 11px; color: #64748b; margin-top: 15px; max-width: 900px; margin-left: auto; margin-right: auto; line-height: 1.5;">
+            <b>Dealers in:</b> Installation, Maintenance And Sales Of Optic Fiber Cables, Its Accessories and General Telecommunication Networks, ICT and Security Systems.
+        </p>
+    </footer>
+
+    <script>
+        function setLanguage(lang) {
+            const body = document.body;
+            const btnEn = document.getElementById('btn-en');
+            const btnSw = document.getElementById('btn-sw');
+            
+            if (lang === 'sw') {
+                body.className = 'mode-sw';
+                btnSw.classList.add('active');
+                btnEn.classList.remove('active');
+            } else {
+                body.className = 'mode-en';
+                btnEn.classList.add('active');
+                btnSw.classList.remove('active');
+            }
+        }
+    </script>
+</body>
+</html>
 
 
