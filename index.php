@@ -497,7 +497,7 @@
                     <li>High-capacity managed Wi-Fi architectures</li>
                 </ul>
             </div>
-        </div>
+    
 
                <!-- CONVERGENCE SEGMENT EXPLANATION -->
         <div class="highlight-box">
