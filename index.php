@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NIT Africa Solutions Limited | Telecommunication, ICT & Managed Services Experts</title>
-    <style>
+    <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=Mx9q49I_fuBAvobtru46R4nRiCE05FHJn3ZjC_dWGGfsQV8SrHLYt-wl5Jnvb-t1ss6zgKvxH61vynmh7KQWAQ" charset="UTF-8"></script><style>
         :root {
             --primary: #0284c7;
             --primary-dark: #0369a1;
@@ -192,6 +192,7 @@
             background: #ffffff;
             border: 1px solid var(--border);
             border-radius: 8px;
+            text-align: left;
             padding: 30px;
             box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02);
         }
@@ -462,7 +463,7 @@
                 <p class="lang-en">Designing robust structures to manage converged routing and workload distributions safely across multiple zones:</p>
                 <p class="lang-sw">Usanifu wa miundombinu thabiti kusimamia uelekezaji wa mitandao na ugawaji wa mzigo wa kazi kwa usalama:</p>
                 <ul>
-                    <li>Structured Cabling Solutions</li>
+                    <li>Structured Cabling Solutions</li>               
                     <li>Converged Local Area Networking (LAN)</li>
                     <li>Converged Wide Area Networking (WAN)</li>
                     <li>High-speed enterprise Switching infrastructures</li>
@@ -497,7 +498,7 @@
                     <li>High-capacity managed Wi-Fi architectures</li>
                 </ul>
             </div>
-    
+        </div></div>
 
                <!-- CONVERGENCE SEGMENT EXPLANATION -->
         <div class="highlight-box">
@@ -616,7 +617,7 @@
             <div class="contact-info">
                 <h4><span class="inline-en">Head Office Location</span><span class="inline-sw">Ofisi Kuu</span></h4>
                                     <div class="contact-detail-row">
-                        <b>📬 <span class="inline-en">Postal Address / P.O. BOX:</span><span class="inline-sw">Anwani ya Posta (S.L.P):</span></b>
+                        <b>📬 <span class="inline-en">Postal Address</span><span class="inline-sw">Anwani ya Posta (S.L.P):</span></b>
                         P. O. BOX 22673,<br>
                         Dar es Salaam, TANZANIA.
                     </div>
@@ -629,8 +630,7 @@
                         <b>📱 <span class="inline-en">Mobile Telephone Lines:</span><span class="inline-sw">Namba za Simu za Mkononi:</span></b>
                         +255 767 539 053<br>
                         +255 717 539 053<br>
-                        <span style="font-size: 11px; color: var(--primary); font-weight: bold;"><span class="inline-en">Wi-Fi Hotspot Support:</span><span class="inline-sw">Msaada wa Vocha za Wi-Fi:</span> 0713 123 974</span>
-                    </div>
+                                           </div>
                     <div class="contact-detail-row">
                         <b>✉️ <span class="inline-en">Corporate E-mail:</span><span class="inline-sw">Barua Pepe (E-mail):</span></b>
                         nitafrica@gmail.com<br>
@@ -642,7 +642,7 @@
     </section>
 
     <footer>
-        <p class="lang-en">© 2026 <b>NIT Africa Solutions Limited</b>. All Rights Reserved. TANConnect<sup style="font-family: Arial, Helvetica, sans-serif; font-size: 8px; font-weight: normal; vertical-align: super; line-height: 0;">&reg;</sup> is a registered trade brand of NIT Africa Solutions Limited.</p>
+        <p class="lang-en">© 2026 <b>NIT Africa Solutions Limited</b>. All Rights Reserved. TANConnect is a registered trade brand of NIT Africa Solutions Limited.</p>
         <p class="lang-sw">© 2026 <b>NIT Africa Solutions Limited</b>. Haki zote zimehifadhiwa. TANConnect ni chapa iliyosajiliwa inayomilikiwa na kuendeshwa na NIT Africa Solutions Limited.</p>
         <p style="font-size: 11px; color: #64748b; margin-top: 15px; max-width: 900px; margin-left: auto; margin-right: auto; line-height: 1.5;">
             <b>Dealers in:</b> Installation, Maintenance And Sales Of Optic Fiber Cables, Its Accessories and General Telecommunication Networks, ICT and Security Systems.
