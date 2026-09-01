@@ -324,9 +324,8 @@
     <header>
         <div class="nav-container">
             <div class="logo-box">
-                <h1>NIT AFRICA SOLUTIONS</h1>
-                <span>Networking Your Business With Future...</span>
-            </div>
+ <img src="NITlogo.png" alt="Water Point Logo" style="max-width: 250px; height: auto; object-fit: contain; margin-bottom: 1px;">
+                            </div>
             <div class="right-header">
                 <nav>
                     <a href="#about"><span class="inline-en">About</span><span class="inline-sw">Kuhusu Sisi</span></a>
@@ -347,8 +346,8 @@
     <div class="hero">
         <span class="hero-badge"><span class="inline-en">Company Profile</span><span class="inline-sw">Wasifu wa Kampuni</span></span>
         
-        <h2 class="lang-en">Dealers in Installation, Maintenance & Sales of Optic Fiber Cables & Telecommunication Networks</h2>
-        <h2 class="lang-sw">Wataalamu wa Ufungaji, Matengenezo na Mauzo ya Nyaya za Fiber Optic na Mitandao ya Mawasiliano</h2>
+        <h2 class="lang-en">Dealers in Installation, Maintenance of Telecommunication Networks & Sales of Optic Fiber Cables and Accessories </h2>
+        <h2 class="lang-sw">Wataalamu wa Ufungaji, Matengenezo ya Mitandao ya Mawasiliano na Mauzo ya Nyaya za Fiber Optic na Vifaa vyake</h2>
 
     <!-- 📌 MISSION & STRATEGY SECTION -->
     <section id="about">
@@ -488,8 +487,8 @@
             <!-- Card 3: Wireless Solutions -->
             <div class="card">
                 <h4>📶 Wireless Solutions</h4>
-                <p class="lang-en">Wireless enables higher degree of network access—Stay connected on the move. Enterprises are migrating towards unwired connectivity for anywhere, anytime access to real-time information with easy deployment without hassles of wiring the entire office:</p>
-                <p class="lang-sw">Miundombinu ya mtandao usio na waya (Wireless) inaleta uhuru mkubwa wa kutembea na ufikiaji wa mtandao bila kukatika—kuwa hewani wakati wowote kupata taarifa kwa urahisi bila usumbufu wa kuweka waya ofisi nzima:</p>
+                <p class="lang-en">Wireless enables higher degree of network access—Stay connected on the move. Enterprises are migrating towards unwired connectivity for anywhere, anytime access to real-time information with easy deployment without hassles of wiring the entire office, a section branded <b>TANConnect<sup style="font-family: Arial, Helvetica, sans-serif; font-size: 8px; font-weight: normal; vertical-align: super; line-height: 0;">&reg;</sup> </b> is dedicated with these tasks:</p>
+                <p class="lang-sw">Miundombinu ya mtandao isiyo na waya (Wireless) inaleta uhuru mkubwa wa kutembea na ufikiaji wa mtandao bila kukatika—kuwa hewani wakati wowote kupata taarifa kwa urahisi bila usumbufu wa kuweka waya ofisi nzima kitengo chetu cha <b>TANConnect<sup style="font-family: Arial, Helvetica, sans-serif; font-size: 8px; font-weight: normal; vertical-align: super; line-height: 0;">&reg;</sup></b> kipo mahususi kwa kazi hizi:</p>
                 <ul>
                     <li>Enterprise unwired connectivity migration</li>
                     <li>Anywhere, anytime real-time data access</li>
@@ -616,8 +615,12 @@
         <div class="contact-wrapper">
             <div class="contact-info">
                 <h4><span class="inline-en">Head Office Location</span><span class="inline-sw">Ofisi Kuu</span></h4>
-                                    <div class="contact-detail-row">
-                        <b>📬 <span class="inline-en">Postal Address</span><span class="inline-sw">Anwani ya Posta (S.L.P):</span></b>
+                                    <div class="contact-detail-row"> 
+                       <span class="inline-en"><b>Physical Address; </span><span class="inline-sw">Anuani ya Kudumu;</span> </b>
+
+                        <span class="inline-en">Ndalala Street, <br> Plot No 8, TEMEKE </br>Dar es Salaam, TANZANIA. </span><span class="inline-sw">Mtaa Ndalala, <br>Kiwanja No 8, TEMEKE <br> Dar es Salaam, TANZANIA.</span><br><br>
+                        <b>📬 <span class="inline-en">Postal Address;</span><span class="inline-sw">Anwani ya Posta (S.L.P);</span></b>
+
                         P. O. BOX 22673,<br>
                         Dar es Salaam, TANZANIA.
                     </div>
@@ -627,14 +630,17 @@
                 <div class="contact-info">
                     <h4><span class="inline-en">Direct Communications</span><span class="inline-sw">Njia za Mawasiliano</span></h4>
                     <div class="contact-detail-row">
-                        <b>📱 <span class="inline-en">Mobile Telephone Lines:</span><span class="inline-sw">Namba za Simu za Mkononi:</span></b>
+                        <b>📱 <span class="inline-en">Mobile Telephone Lines;</span><span class="inline-sw">Namba za Simu za Mkononi;</span></b>
                         +255 767 539 053<br>
-                        +255 717 539 053<br>
+                        +255 717 539 053<br><br>
+                       <b>📱 <span class="inline-en">Technical Support;</span><span class="inline-sw">Msaada wa Kiufundi;</span></b>
+                        +255 713 123 974<br>
+
                                            </div>
                     <div class="contact-detail-row">
-                        <b>✉️ <span class="inline-en">Corporate E-mail:</span><span class="inline-sw">Barua Pepe (E-mail):</span></b>
-                        nitafrica@gmail.com<br>
-                        kiolobelejuma@gmail.com
+                        <b>✉️ <span class="inline-en">Corporate E-mail;</span><span class="inline-sw">Barua Pepe (E-mail);</span></b>
+                        enqueries@nitafricasolutions.co.tz<br>
+                        gm@nitafricasolutions.co.tz
                     </div>
                 </div>
             </div>
@@ -642,9 +648,9 @@
     </section>
 
     <footer>
-        <p class="lang-en">© 2026 <b>NIT Africa Solutions Limited</b>. All Rights Reserved. TANConnect is a registered trade brand of NIT Africa Solutions Limited.</p>
-        <p class="lang-sw">© 2026 <b>NIT Africa Solutions Limited</b>. Haki zote zimehifadhiwa. TANConnect ni chapa iliyosajiliwa inayomilikiwa na kuendeshwa na NIT Africa Solutions Limited.</p>
-        <p style="font-size: 11px; color: #64748b; margin-top: 15px; max-width: 900px; margin-left: auto; margin-right: auto; line-height: 1.5;">
+        <p class="lang-en">© 2026 <b>NIT Africa Solutions Limited</b>. All Rights Reserved. TANConnect<sup style="font-family: Arial, Helvetica, sans-serif; font-size: 8px; font-weight: normal; vertical-align: super; line-height: 0;">&reg;</sup> is a registered trade brand of NIT Africa Solutions Limited.</p>
+        <p class="lang-sw">© 2026 <b>NIT Africa Solutions Limited</b>. Haki zote zimehifadhiwa. TANConnect<sup style="font-family: Arial, Helvetica, sans-serif; font-size: 8px; font-weight: normal; vertical-align: super; line-height: 0;">&reg;</sup> ni chapa iliyosajiliwa inayomilikiwa na kuendeshwa na NIT Africa Solutions Limited.</p>
+        <p style="font-size: 12px; color: #64748b; margin-top: 15px; max-width: 900px; margin-left: auto; margin-right: auto; line-height: 1.5;">
             <b>Dealers in:</b> Installation, Maintenance And Sales Of Optic Fiber Cables, Its Accessories and General Telecommunication Networks, ICT and Security Systems.
         </p>
     </footer>
