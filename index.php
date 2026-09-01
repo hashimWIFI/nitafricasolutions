@@ -324,7 +324,7 @@
     <header>
         <div class="nav-container">
             <div class="logo-box">
- <img src="NITlogo.png" alt="Water Point Logo" style="max-width: 250px; height: auto; object-fit: contain; margin-bottom: 1px;">
+ <img src="nitlogo.png" alt="Water Point Logo" style="max-width: 250px; height: auto; object-fit: contain; margin-bottom: 1px;">
                             </div>
             <div class="right-header">
                 <nav>
