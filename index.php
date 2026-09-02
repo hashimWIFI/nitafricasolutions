@@ -630,7 +630,7 @@
                 <div class="contact-info">
                     <h4><span class="inline-en">Direct Communications</span><span class="inline-sw">Njia za Mawasiliano</span></h4>
                     <div class="contact-detail-row">
-                        <b>📱 <span class="inline-en">Mobile Telephone Lines;</span><span class="inline-sw">Namba za Simu za Mkononi;</span></b>
+                        <b>📱 <span class="inline-en">General Enqueries;</span><span class="inline-sw">Namba za Simu;</span></b>
                         +255 767 539 053<br>
                         +255 717 539 053<br><br>
                        <b>📱 <span class="inline-en">Technical Support;</span><span class="inline-sw">Msaada wa Kiufundi;</span></b>
