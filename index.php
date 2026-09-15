@@ -727,8 +727,8 @@
                         <b>📱 <span class="inline-en">General Enqueries;</span><span class="inline-sw">Namba za Simu;</span></b>
                         +255 767 539 053<br>
                         +255 717 539 053<br><br>
-                       <b>📱 <span class="inline-en">Technical Support;</span><span class="inline-sw">Msaada wa Kiufundi;</span></b>
-                        +255 713 123 974<br>
+                       <b>📱 <span class="inline-en">Technical Support;</span><span class="inline-sw">Msaada wa Kiufundi;</span></b> Mobile:
+                        +255 713 123 974<br> E-mail: support@tanconnect.co.tz
 
                                            </div>
                     <div class="contact-detail-row">
